@@ -1,4 +1,4 @@
-# Editorial Humanizer (Ethical) — v3
+# HumanEdge AI
 
 This app improves clarity, flow, and tone **without** altering meaning, and includes:
 - Metrics (readability, sentence variance, repetition, passive voice flags)
