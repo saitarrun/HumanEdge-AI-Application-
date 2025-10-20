@@ -1,15 +1,10 @@
-# Node dependencies
+# Node / Next.js
 node_modules/
-
-# Next.js build output
 .next/
 out/
-
-# Logs and temp
+.DS_Store
+.env
+.env.local
 npm-debug.log*
 yarn-debug.log*
-.DS_Store
-
-# Env files
-.env.example
-.env.local
+yarn-error.log*
